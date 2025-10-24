@@ -21,3 +21,29 @@ UX/design
 5. The interaction and mental model *might* be the hardest or the easiest question to solve
 6. We don't want to use AI but we might end up exploring its use at some point (e.g. summaries)
 7. We'll want a modern take on the design vs as a vintage radio
+
+## gmusick
+
+Assumptions
+
+Device
+- We are building a physical device.
+- That device plays podcasts and only podcasts.  No radio, no mp3s, no streaming music services.
+- This will be a premium product.
+- The device is small enough to sit on a table or nightstand, but does not fit in your pocket. You have to plug it in. It's not meant to be portable.
+- The primary interface is on the device itself. It doesn't need a companion app or anything to work.
+- The device will contain a speaker.
+- You can connect headphones to it (likely bluetooth).
+- The device will have a retro look and feel.
+
+Project
+- On a scale of "for fun" to "profit", this will be on the "for fun" side.
+- It will be sold to the public.
+- In addition to our time, we will have to spend our own money on this.
+
+Process
+- This is a side gig for us.
+- Therefore, to make any progress, we'll have to push each other to deliver.
+- This is a two-person team.
+- No silos (e.g. one person does software, the other does hardware).
+- We will meet at weekly (at least).
