@@ -12,9 +12,10 @@ We would like to better understand how people discover new podcasts today, what 
 3. Why are they looking for new podcasts? What are they looking for?
 4. What else do they listen to (e.g. radio) and why?
 5. How do they listen to podcast? (e.g. alone, at home, with earphones, etc.)
+6. What is the appeal for analog devices and/or media?
 
 ## Methodology
-TBD
+TK
 
 ## Secondary research
 
