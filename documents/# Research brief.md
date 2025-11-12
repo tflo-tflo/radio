@@ -1,4 +1,4 @@
-# Research brief 01: Topic exploration
+# Research proposal 01: Topic exploration
 
 ## Motivation and background
 We would like to encourage people to discover alternative perspectives to what they're currently listening to when they're listening to podcasts. We picked the podcast format because we believe the podcast listener would be most open to adopting new behavior (i.e. try out new content) [1], we believe usage across demographics will grow [2], and we hypothesize there remains market opportunity [3 and 4].
@@ -13,9 +13,15 @@ We would like to better understand how people discover new podcasts today, what 
 4. What else do they listen to (e.g. radio) and why?
 5. How do they listen to podcast? (e.g. alone, at home, with earphones, etc.)
 6. What is the appeal for analog devices and/or media?
+7. Why are they interested in a less digitally immersed life? What actions have they already taken in that direction?
 
 ## Methodology
-TK
+Based on the secondary research and brief audits conducted, we could interview 3-5 people. I recommend focusing on participants who are a) enthusiastic podcast listeners b) already or are interested in living a more focused and less digitally immersed lifestyle. 
+
+## Next steps
+- Interview brief (criteria, moderator guide)
+
+---
 
 ## Secondary research
 
