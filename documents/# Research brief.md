@@ -54,8 +54,38 @@ Listeners discover new podcasts in a very manual method, by either 1) Browsing v
 
 > Oddly, I find that if I listen to podcasts on a slightly faster playback speed, it's a bit easier to pay attention. I don't mean 3x, I mean 1.25 or maybe 1.5x, which to me sounds a lot more like an energetic conversation than a broadcast. It requires a bit of focus, but also makes it less likely for my mind to wander. ([Reddit, Nov 7 2025](https://www.reddit.com/r/podcasts/comments/1or4u6j/i_realized_recently_that_yeah_podcasts_might_be/))
 
-### Competitive analysis of new analog devices (e.g. CD players)
-TBD
+### Competitive analysis of analog media and devices (e.g. CD players)
+
+#### Analog media
+**TLDR:** 
+After some brief research online, I don't think our market overlaps *as much* with people who are interested in CDs, vinyal, or cassette tapes. For many, they purchase these for 1) ownership of media 2) limited release by the artist, 3) ad-free experiences, and where we overlap most: 4) a less digitally involved lifestyle, and 5) nostalgia.
+
+#### Analog * digital devices
+| Product | Core value proposition | Features | Anything else that's unique
+| -- | -- | -- | -- 
+| [Lightphone](https://www.thelightphone.com/) | Light Phones are simple devices with quality tools, designed to be used as little as possible. The value of the Light Phone is not necessarily in any specific feature, but rather the experience we call going light. In our hyper-connected lives, going light is a profound shift. Light is an alternative to the tech monopolies that are fighting aggressively for our time & attention. We make tools that serve you, not the other way around. | Available tools currently include: Alarm, Calculator, Calendar, Directory, Directions, Hotspot, Music, Notes/Voice Memo, Podcast or Timer. | Repairable
+| [Boox Palma](https://shop.boox.com/products/palma?srsltid=AfmBOooRjemjKes8fHOJqR7uNI6XE2xINJy_WYm7vPvJD45fZakvfPzZ) | A Phone-Like Experience on ePaper | Featuring an advanced octa-core CPU and an expandable storage, the Palma can let you immerse yourself in reading an ebook, listening to a podcast, or perusing your favorite news feeds, from limitless third-party apps in the Google Play Store | 
+| [Mudita](https://mudita.com/products/) | A series of products focused on "conscious and positive relationship(s) with technology. | Emphasis on legibility, focus, autonomy (open source OS + 3rd party integration). It's like a smash up between Lightphone and Boox. Several products uses e-ink  | Won a 2025 iF Design Award for their phone
+| [Punkt](https://www.punkt.ch/en/) | "Discover purposeful technology. Seamlessly blending simplicity and timeless design to help you stay focused on what truly matters." | Suite of products, including phones and clocks | Their MCo2 focuses more on data security, runs on Android OS.
+
+##### Notable quotes
+> “It’s more than a simple phone, it’s a lifestyle change.” - Lightphone
+
+>  [Boox Palma's] versatility and size have won me over: I’ve read more books on the Boox Palma in five months than I ever read on my eight-year-old Kindle. [NYTimes](https://www.nytimes.com/wirecutter/reviews/boox-palma2-ereader-review/)
+
+#### New analog devices
+![](_assets/CP2-cd.png)
+![](_assets/moma-cd.png)
+![](_assets/moondrop-cd.png)
+![](_assets/FiiO-tape.png)
+![](_assets/WRR-tape.png)
+![](_assets/WRW-elvis.png)
+![](_assets/WRR-boombox.png)
+
+Not new, but classic design from early 2000s
+
+![](_assets/muji.webp)
+
 
 ---
 ## Appendix 
