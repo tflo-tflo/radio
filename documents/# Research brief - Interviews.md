@@ -23,7 +23,17 @@ Virtual 1hr long semi-structured interviews with 4-6 North American based partic
 Aim to have a mix of gender, age, and ethnicities
 1. (Established behavior) Listens to 1-2 podcasts/week
 
-- Age groups: 18-24; 25-39; 40-60; 61+
+- Age ranges: 18-24; 25-39; 40-60; 61+
+- Income ranges: <25K; 25-49K; 50-74K; 75-99K; 100-150K; 150K+ 
+
+## Recuitment - Candidates
+| Y/N | Name | Listening behaviors | Age | Income | Gender
+|---|---|---|---|---|---|
+| | Monica S | | 25-39 | 150K+ | F
+| | Leili S | | 25-39 | 50-74K | F
+| | Matt H | | 25-39 | | M
+
+---
 
 ## Moderator guide
 
