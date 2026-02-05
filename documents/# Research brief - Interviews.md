@@ -29,9 +29,10 @@ Aim to have a mix of gender, age, and ethnicities
 ## Recuitment - Candidates
 | Y/N | Name | Listening behaviors | Age | Income | Gender
 |---|---|---|---|---|---|
-| | Monica S | | 25-39 | 150K+ | F
+| | Monica S | | 25-39 | 150K+ | F (pilot)
 | | Leili S | | 25-39 | 50-74K | F
 | | Matt H | | 25-39 | | M
+| | Liza B | | 25-39 | 75-99K | F
 
 ---
 
