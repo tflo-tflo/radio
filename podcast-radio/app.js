@@ -187,7 +187,15 @@ const TRAIL_RMAX = 150;  // max spoke length px (wheel radius)
 //   minimized → 39px of sheet visible (just the handle)
 //   minimal   → 128px visible (handle + titles)
 //   full      → entire sheet visible
-const SHEET_Y = [732, 643, 0];
+function computeSheetY() {
+  const h = window.innerHeight;
+  return [h - 112, h - 201, 0];
+}
+let SHEET_Y = computeSheetY();
+window.addEventListener('resize', () => {
+  SHEET_Y = computeSheetY();
+  setSheet(sheetState, false);
+});
 
 function setSheet(state, animate = true) {
   sheetState = state;
@@ -214,7 +222,7 @@ handleEl.addEventListener('touchmove', e => {
   if (Math.abs(dy) > 6) touchMoved = true;
   if (!touchMoved) return;
 
-  const pos = Math.max(0, Math.min(732, dragBase + dy));
+  const pos = Math.max(0, Math.min(SHEET_Y[0], dragBase + dy));
   sheetEl.style.transition = 'none';
   sheetEl.style.transform  = `translateY(${pos}px)`;
 }, { passive: true });

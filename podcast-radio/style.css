@@ -13,7 +13,7 @@ body {
 .app {
   position: relative;
   width: 390px;
-  height: 844px;
+  height: 100dvh;
   background: #121212;
   overflow: hidden;
   flex-shrink: 0;
@@ -36,7 +36,7 @@ h1 {
 .picker-wrap {
   position: absolute;
   left: 20px;
-  top: 74px;
+  top: 8.77%;
   width: 240px;
   height: 150px;
   perspective: 380px;
@@ -82,7 +82,7 @@ h1 {
 .wheel {
   position: absolute;
   left: 45px;
-  top: 359px;
+  top: 42.54%;
   width: 300px;
   height: 300px;
   border-radius: 50%;
@@ -122,7 +122,7 @@ h1 {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 771px;
+  height: calc(100dvh - 73px);
   background: #1c1c1c;
   border-radius: 14px 14px 0 0;
   display: flex;
