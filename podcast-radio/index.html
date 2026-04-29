@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Podcast Radio</title>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+
+    <h1 id="appTitle">Podcast radio</h1>
+
+    <div class="picker-wrap">
+      <div class="picker-inner" id="pickerInner"></div>
+    </div>
+
+    <div class="wheel" id="wheel">
+      <canvas id="wheelCanvas" width="300" height="300"></canvas>
+      <div class="wheel-center"></div>
+    </div>
+
+    <div class="sheet" id="sheet">
+      <div class="sheet-handle" id="sheetHandle"></div>
+      <div class="sheet-content">
+        <div class="sheet-titles">
+          <p class="series">Slate Money</p>
+          <p class="episode">Money Talks: The AI job apocalypse is avoidable</p>
+        </div>
+        <div class="sheet-desc">
+          <p>In this Money Talks: MIT professor Daron Acemoglu joins Emily Peck to explain his research into pro-worker technologies and how we can not only avoid the AI job apocalypse but also improve workers' lives by shifting the goal of AI from automation to collaboration.</p>
+          <p>Join Slate Plus to unlock weekly bonus episodes. You can subscribe on Apple Podcasts or Spotify.</p>
+          <p>Podcast production by Jessamine Molli and Cheyna Roth.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
