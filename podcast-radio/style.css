@@ -1,8 +1,13 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
 body {
-  background: #000;
-  min-height: 100vh;
+  background: #1c1c1c;
+  height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -87,7 +92,7 @@ h1 {
   height: 300px;
   border-radius: 50%;
   background: #121212;
-  border: 1px solid rgba(255, 255, 255, 0.16);
+  border: 1px solid #fff;
   cursor: grab;
   touch-action: none;
   user-select: none;
@@ -112,7 +117,7 @@ h1 {
   transform: translate(-50%, -50%);
   border-radius: 50%;
   background: #121212;
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  border: 1px solid #fff;
   pointer-events: none;
 }
 
@@ -143,9 +148,6 @@ h1 {
   flex-shrink: 0;
   cursor: pointer;
   touch-action: none;
-  /* expand tap area */
-  padding: 12px 24px;
-  margin: -12px -24px;
 }
 
 .sheet-content {
